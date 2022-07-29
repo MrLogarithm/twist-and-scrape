@@ -1,0 +1,5 @@
+token: none # e.g. oauth2:1234567890abcdef01234567890abcdef1234567
+workspace_id: none # e.g. 123456
+
+api: https://api.twist.com/api/v3
+download_attachments: false # not yet supported

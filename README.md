@@ -37,3 +37,5 @@ $ python twist-and-scrape.py
 This script only archives threads and the public-facing part of user profiles: PMs and private user details are not included. (Note that users' names and emails are part of their public profile.)
 
 Attachments must be downloaded manually (see point #4 above).
+
+This has only been lightly tested and there are likely some uncaught bugs.
